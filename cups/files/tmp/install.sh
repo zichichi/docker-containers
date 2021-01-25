@@ -43,7 +43,7 @@ apt-get install --assume-yes --quiet \
         cups-pdf \
         whois \
         hplip \
-        suld-driver-4.01.17 \
+        suld-driver2-1.00.39 \
         python-cups \
         python-pip \
         inotify-tools
